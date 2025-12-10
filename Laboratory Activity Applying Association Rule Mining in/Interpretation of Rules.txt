@@ -1,0 +1,61 @@
+Interpretation of Rules
+
+1. {citrus fruit, root vegetables} ⇒ {other vegetables}
+Confidence: 58.6%, Lift: 3.03
+Customers who buy citrus fruit and root vegetables also buy other vegetables about 59% of the time. Strong association (3× more likely than random). Suggests cross-selling opportunities among vegetables and fruits.
+
+2. {tropical fruit, root vegetables} ⇒ {other vegetables}
+Confidence: 58.5%, Lift: 3.02
+Buying tropical fruit and root vegetables strongly increases the chance of buying other vegetables. Similar actionable insight as Rule 1.
+
+3. {root vegetables, rolls/buns} ⇒ {other vegetables}
+Confidence: 50.2%, Lift: 2.59
+Customers buying root vegetables and bread/rolls also purchase other vegetables about half the time. Indicates meal-related shopping patterns.
+
+4. {root vegetables, yogurt} ⇒ {other vegetables}
+Confidence: 50%, Lift: 2.58
+Root vegetables and yogurt buyers often buy other vegetables. Could reflect health-conscious or cooking-oriented shopping behavior.
+
+5. {curd, yogurt} ⇒ {whole milk}
+Confidence: 58.2%, Lift: 2.28
+Customers buying curd and yogurt are likely to buy whole milk. Strong dairy association; useful for promotions or bundles.
+
+6. {other vegetables, butter} ⇒ {whole milk}
+Confidence: 57.4%, Lift: 2.24
+Customers purchasing vegetables and butter also buy milk. Suggests combination of staples and meal preparation items.
+
+7. {tropical fruit, root vegetables} ⇒ {whole milk}
+Confidence: 57%, Lift: 2.23
+Buying tropical fruit and root vegetables increases likelihood of buying milk. Could indicate balanced grocery shopping patterns.
+
+8. {root vegetables, yogurt} ⇒ {whole milk}
+Confidence: 56.3%, Lift: 2.20
+Root vegetables and yogurt buyers tend to buy milk. Shows common dairy-vegetable co-purchases.
+
+9. {other vegetables, domestic eggs} ⇒ {whole milk}
+Confidence: 55.3%, Lift: 2.16
+Customers buying vegetables and eggs are likely to buy milk. Breakfast or meal-prep patterns are suggested.
+
+10. {yogurt, whipped/sour cream} ⇒ {whole milk}
+Confidence: 52.5%, Lift: 2.05
+Yogurt and sour cream buyers often purchase milk. Strong dairy product association.
+
+11. {root vegetables, rolls/buns} ⇒ {whole milk}
+Confidence: 52.3%, Lift: 2.05
+Buying root vegetables and bread/rolls slightly increases probability of buying milk. Meal or recipe patterns.
+
+12. {pip fruit, other vegetables} ⇒ {whole milk}
+Confidence: 51.8%, Lift: 2.03
+Customers buying pip fruits (apples, pears) and other vegetables also purchase milk. Suggests general grocery pattern.
+
+13. {tropical fruit, yogurt} ⇒ {whole milk}
+Confidence: 51.7%, Lift: 2.02
+Tropical fruit and yogurt buyers tend to buy milk. Indicates common co-purchase of fruits and dairy.
+
+14. {other vegetables, yogurt} ⇒ {whole milk}
+Confidence: 51.3%, Lift: 2.01
+Customers buying vegetables and yogurt slightly more likely to buy milk. Everyday grocery association.
+
+15. {other vegetables, whipped/sour cream} ⇒ {whole milk}
+Confidence: 50.7%, Lift: 1.98
+Buying vegetables and whipped cream or sour cream moderately increases likelihood of buying milk.
